@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Logos_Maven:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/Logos_Maven_Web</output-path>
+    <root id="archive" name="Logos_Maven_Web.war">
+      <element id="javaee-facet-resources" facet="Logos_Maven/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Logos_Maven" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
