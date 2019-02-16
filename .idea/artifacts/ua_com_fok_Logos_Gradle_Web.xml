@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ua.com.fok.Logos_Gradle:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/ua_com_fok_Logos_Gradle_Web</output-path>
+    <root id="archive" name="ua.com.fok.Logos_Gradle_Web.war">
+      <element id="javaee-facet-resources" facet="ua.com.fok.Logos_Gradle/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ua.com.fok.Logos_Gradle" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
